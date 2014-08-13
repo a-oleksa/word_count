@@ -1,0 +1,8 @@
+Word counter- calculate and display top 50 words and the perfcent frequency
+
+build
+javac *.java
+
+run
+java wordc
+[enter file name]
